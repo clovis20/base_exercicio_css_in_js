@@ -32,8 +32,6 @@ export const Form = styled.form`
   }
 `
 export const HeroTitle = styled.h2`
-  //display: inline-block;
-  //text-align: center;
   font-family: Gloock, sans-serif;
   font-size: 48px;
 
